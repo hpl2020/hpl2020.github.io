@@ -935,7 +935,7 @@ html, body{ height: 100%; }
 
 .sf-team{
 	float: left;
-    width: 100%;
+    width: 80%;
 }
 .sf-team .thumb {
     float: left;
@@ -1721,7 +1721,7 @@ textarea:focus, input:focus, select:focus, .bootstrap-select .dropdown-toggle:fo
 }	
 
 .footer-box-c h3{
-	font-size:24px;
+	font-size:36px;
     font-family: 'nautilus_pompiliusregular';
 }
 .footer-box-c p{
